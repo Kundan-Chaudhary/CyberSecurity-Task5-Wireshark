@@ -16,7 +16,7 @@ The objective of this task was to capture live network traffic and analyze diffe
 5. Captured traffic for approximately 2 minutes.
 6. Stopped the capture.
 7. Applied display filters to analyze specific protocols.
-8. Exported the captured file as `task5_capture.pcap`.
+8. Exported the captured file as Capture.pcap`.
 
 ## Protocols Identified and Analysis
 
